@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "Bradley Hinton",
+      "email": "bradleyhinton@prismatic.com",
+      "password": "1234"
+    },
+    {
+      "name": "Forbes Mclean",
+      "email": "forbesmclean@prismatic.com",
+      "password": "12345"
+    },
+    {
+      "name": "Marina French",
+      "email": "marinafrench@prismatic.com",
+      "password": "1472"
+    },
+    {
+      "name": "Leticia Baird",
+      "email": "leticiabaird@prismatic.com",
+      "password": "7412"
+    },
+    {
+      "name": "Clarice Zimmerman",
+      "email": "claricezimmerman@prismatic.com",
+      "password": "4858"
+    },
+    {
+      "name": "Pruitt Cobb",
+      "email": "pruittcobb@prismatic.com",
+      "password": "9639"
+    },
+    {
+      "id": "f549",
+      "name": "Sagan kumar",
+      "email": "sagan@gmail.com",
+      "password": "142587"
+    },
+    {
+      "id": "e093",
+      "name": "Lily",
+      "email": "lily@gmail.com",
+      "password": "1232456"
+    },
+    {
+      "id": "1aae",
+      "email": "sagan@gmail.com",
+      "password": "142587"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ]
+}
